@@ -1,0 +1,11 @@
+﻿<html>
+<head>
+<title>LOGIN PAGE</title>   
+</head>
+<body bgcolor="red">
+<h2> LOG IN</h2>
+<input placeholder="username" type="Email" name="email"><br>
+<input placeholder="password" type="password" name="password"><br>
+<input type="submit" value="login">
+</body>
+</html>
